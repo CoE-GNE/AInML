@@ -1,5 +1,5 @@
 title = "AI and ML"
-baseURL = "https://hsrai.github.io/AInML/"
+baseURL = "https://CoE-GNE.github.io/AInML/"
 languageCode = "en-us"
 theme = "ananke"
 themesDir = "themes"
