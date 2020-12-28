@@ -4,7 +4,21 @@
   
   <url>
     <loc>https://CoE-GNE.github.io/AInML/</loc>
-    <lastmod>2020-12-24T12:00:00-05:00</lastmod>
+    <lastmod>2020-12-28T07:41:58-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://CoE-GNE.github.io/AInML/post/check-it/</loc>
+    <lastmod>2020-12-28T07:41:58-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://CoE-GNE.github.io/AInML/post/python-for-machine-learning/</loc>
+    <lastmod>2020-12-28T07:28:54-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
