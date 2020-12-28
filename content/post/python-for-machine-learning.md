@@ -1,6 +1,6 @@
 ---
 title: "Python for Machine Learning"
-date: 2020-12-27T23:36:33-05:00
+date: 2020-12-28T07:28:54-05:00
 draft: true
 ---
 
