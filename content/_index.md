@@ -1,6 +1,8 @@
 ---
-title: "Ananke: a Hugo Theme"
+title: "Artificial Intelligence and ML"
 featured_image: '/images/gohugo-default-sample-hero-image.jpg'
-description: "The last theme you'll ever need. Maybe."
+description: "Class notes of TEQIP FDP, by ITI Indore"
 ---
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+
+This is notes taken during classes held from Dec 21 to Dec 30, 2020 in
+online mode.
