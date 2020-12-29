@@ -1,9 +1,10 @@
 title = "AI and ML"
-baseURL = "https://CoE-GNE.github.io/AInML/"
+#baseURL = "https://CoE-GNE.github.io/AInML/"
+baseURL = "https://CoE-GNE.github.io/"
 languageCode = "en-us"
 theme = "ananke"
 themesDir = "themes"
-publishDir = "docs"
+#publishDir = "docs"
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
